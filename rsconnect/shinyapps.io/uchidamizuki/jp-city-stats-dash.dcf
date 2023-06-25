@@ -1,0 +1,13 @@
+name: jp-city-stats-dash
+title: jp-city-stats-dash
+username:
+account: uchidamizuki
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9361604
+bundleId: 7385571
+url: https://uchidamizuki.shinyapps.io/jp-city-stats-dash/
+when: 1687698799.85408
+lastSyncTime: 1687698799.85409
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,6 @@
+---
+title: "jp-city-stats-dash"
+format: gfm
+---
+
+<https://uchidamizuki.shinyapps.io/jp-city-stats-dash/>
