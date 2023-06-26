@@ -5,9 +5,10 @@ account: uchidamizuki
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 9361604
-bundleId: 7385571
+bundleId: 7385599
 url: https://uchidamizuki.shinyapps.io/jp-city-stats-dash/
-when: 1687698799.85408
-lastSyncTime: 1687698799.85409
+when: 1687699570.38133
+lastSyncTime: 1687699570.38134
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: README.md|README.qmd

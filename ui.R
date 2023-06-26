@@ -46,11 +46,11 @@ body <- dashboardBody(
           tabBox(
             title = "自然増減",
             width = 12,
-            selected = "増減率（総人口比）",
-            tabPanel("増減数",
+            selected = "割合（総人口比）",
+            tabPanel("人口",
                      plotOutput("plot_natural_increase"),
                      plotOutput("plot_natural_increase_nat")),
-            tabPanel("増減率（総人口比）",
+            tabPanel("割合（総人口比）",
                      plotOutput("plot_natural_increase_rate"),
                      plotOutput("plot_natural_increase_rate_nat"))
           )
@@ -60,10 +60,10 @@ body <- dashboardBody(
           tabBox(
             title = "社会増減",
             width = 12,
-            selected = "増減率（総人口比）",
-            tabPanel("増減数",
+            selected = "割合（総人口比）",
+            tabPanel("人口",
                      plotOutput("plot_social_increase")),
-            tabPanel("増減率（総人口比）",
+            tabPanel("割合（総人口比）",
                      plotOutput("plot_social_increase_rate"))
           ),
           box(
